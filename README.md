@@ -1,6 +1,6 @@
 # mate
 
-A new Flutter project.
+Just a basic note taking app.
 
 ## Getting Started
 
