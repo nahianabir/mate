@@ -1,6 +1,6 @@
 # mate
 
-Just a basic note taking app.
+Just a basic note taking app with some bugs.
 
 ## Getting Started
 
